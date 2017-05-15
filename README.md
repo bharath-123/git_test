@@ -1,2 +1,2 @@
 # git_test
-Repo to learn git and github
+Repo to learn how to use git and github
